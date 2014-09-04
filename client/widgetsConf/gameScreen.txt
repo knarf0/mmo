@@ -1,0 +1,22 @@
+Window:
+{
+	ChatBox: "chatBox"
+	{
+		ConfigFile = "widgets/White.conf"
+		Left = 0
+		Top = 500
+		Width = 430
+		Height = 100
+		Visible = true
+		Enabled = true
+		Focused = false
+		Transparency = 100
+		CallbackId = 1
+		TextSize = 16
+		Borders = (2,2,2,2)
+		BackgroundColor = (255,255,255,255)
+		BorderColor = (0,0,0,255)
+		Lines = ""
+	}
+
+}
